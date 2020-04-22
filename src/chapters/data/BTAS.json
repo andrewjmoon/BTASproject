@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1,
+    "show": "Batman the Animated Series",
+    "number": "1",
+    "episode": "The Cat and the Claw (1)",
+    "rating": "A-"
+  },
+  {
+    "id": 2,
+    "show": "Batman the Animated Series",
+    "number": "2",
+    "episode": "On Leather Wings",
+    "rating": "A+"
+  },
+  {
+    "id": 3,
+    "show": "Batman the Animated Series",
+    "number": "3",
+    "episode": "Heart of Ice",
+    "rating": "A+"
+  },
+  {
+    "id": 4,
+    "show": "Batman the Animated Series",
+    "number": "4",
+    "episode": "Feat of Clay (1)",
+    "rating": "A+"
+  },
+  {
+    "id": 5,
+    "show": "Batman the Animated Series",
+    "number": "5",
+    "episode": "Feat of Clay (2)",
+    "rating": "A+"
+  },
+  {
+    "id": 6,
+    "show": "Batman the Animated Series",
+    "number": "6",
+    "episode": "It's Never Too Late",
+    "rating": "A+"
+  },
+  {
+    "id": 7,
+    "show": "Batman the Animated Series",
+    "number": "7",
+    "episode": "Joker's Favor",
+    "rating": "B+"
+  },
+  {
+    "id": 8,
+    "show": "Batman the Animated Series",
+    "number": "8",
+    "episode": "The Cat and the Claw (2)",
+    "rating": "A"
+  },
+  {
+    "id": 9,
+    "show": "Batman the Animated Series",
+    "number": "9",
+    "episode": "Pretty Poison",
+    "rating": "B+"
+  },
+  {
+    "id": 10,
+    "show": "Batman the Animated Series",
+    "number": "10",
+    "episode": "Nothing to Fear",
+    "rating": "A"
+  },
+  {
+    "id": 11,
+    "show": "Batman the Animated Series",
+    "number": "11",
+    "episode": "Be a Clown",
+    "rating": "A-"
+  },
+  {
+    "id": 12,
+    "show": "Batman the Animated Series",
+    "number": "12",
+    "episode": "Appointment in Crime Alley",
+    "rating": "A"
+  },
+  {
+    "id": 13,
+    "show": "Batman the Animated Series",
+    "number": "13",
+    "episode": "P.O.V",
+    "rating": "A"
+  },
+  {
+    "id": 14,
+    "show": "Batman the Animated Series",
+    "number": "14",
+    "episode": "The Clock King",
+    "rating": "B"
+  },
+  {
+    "id": 15,
+    "show": "Batman the Animated Series",
+    "number": "15",
+    "episode": "The Last Laugh",
+    "rating": "A-"
+  },
+  {
+    "id": 16,
+    "show": "Batman the Animated Series",
+    "number": "16",
+    "episode": "Eternal Youth",
+    "rating": "C+"
+  },
+  {
+    "id": 17,
+    "show": "Batman the Animated Series",
+    "number": "17",
+    "episode": "Two-Face Pt.1",
+    "rating": "A+"
+  },
+  {
+    "id": 18,
+    "show": "Batman the Animated Series",
+    "number": "18",
+    "episode": "Two-Face Pt.2",
+    "rating": "A+"
+  },
+  {
+    "id": 19,
+    "show": "Batman the Animated Series",
+    "number": "19",
+    "episode": "Fear of Victory",
+    "rating": "B+"
+  },
+  {
+    "id": 20,
+    "show": "Batman the Animated Series",
+    "number": "20",
+    "episode": "I've Got Batman in my Basement",
+    "rating": "B"
+  },
+  {
+    "id": 21,
+    "show": "Batman the Animated Series",
+    "number": "21",
+    "episode": "Vendetta",
+    "rating": "A"
+  },
+  {
+    "id": 22,
+    "show": "Batman the Animated Series",
+    "number": "22",
+    "episode": "Prophecy of Doom",
+    "rating": "B-"
+  },
+  {
+    "id": 23,
+    "show": "Batman the Animated Series",
+    "number": "23",
+    "episode": "The Forgotten",
+    "rating": "A-"
+  },
+  {
+    "id": 24,
+    "show": "Batman the Animated Series",
+    "number": "24",
+    "episode": "Mad As A Hatter",
+    "rating": "B"
+  },
+  {
+    "id": 25,
+    "show": "Batman the Animated Series",
+    "number": "25",
+    "episode": "The Cape & Cowl Conspiracy",
+    "rating": "B"
+  },
+  {
+    "id": 26,
+    "show": "Batman the Animated Series",
+    "number": "26",
+    "episode": "Perchance To Dream",
+    "rating": "A+"
+  },
+  {
+    "id": 27,
+    "show": "Batman the Animated Series",
+    "number": "27",
+    "episode": "The Underdwellers",
+    "rating": "B-"
+  },
+  {
+    "id": 28,
+    "show": "Batman the Animated Series",
+    "number": "28",
+    "episode": "Night of the Ninja",
+    "rating": "A"
+  },
+  {
+    "id": 29,
+    "show": "Batman the Animated Series",
+    "number": "29",
+    "episode": "The Strange Secret Of Bruce Wayne",
+    "rating": "A"
+  },
+  {
+    "id": 30,
+    "show": "Batman the Animated Series",
+    "number": "30",
+    "episode": "Tyger, Tyger",
+    "rating": "B"
+  },
+  {
+    "id": 31,
+    "show": "Batman the Animated Series",
+    "number": "31",
+    "episode": "Dreams In Darkness",
+    "rating": "A+"
+  },
+  {
+    "id": 32,
+    "show": "Batman the Animated Series",
+    "number": "32",
+    "episode": "Beware The Gray Ghost",
+    "rating": "A"
+  },
+  {
+    "id": 33,
+    "show": "Batman the Animated Series",
+    "number": "33",
+    "episode": "Cat Scratch Fever",
+    "rating": "B+"
+  },
+  {
+    "id": 34,
+    "show": "Batman the Animated Series",
+    "number": "34",
+    "episode": "I Am the Night",
+    "rating": "A+"
+  },
+  {
+    "id": 35,
+    "show": "Batman the Animated Series",
+    "number": "35",
+    "episode": "Almost Got 'Im",
+    "rating": "A+"
+  },
+  {
+    "id": 36,
+    "show": "Batman the Animated Series",
+    "number": "36",
+    "episode": "Moon of the Wolf",
+    "rating": "B+"
+  },
+  {
+    "id": 37,
+    "show": "Batman the Animated Series",
+    "number": "37",
+    "episode": "Terror In the Sky",
+    "rating": "B+"
+  },
+  {
+    "id": 38,
+    "show": "Batman the Animated Series",
+    "number": "38",
+    "episode": "Christmas With the Joker",
+    "rating": "A"
+  },
+  {
+    "id": 39,
+    "show": "Batman the Animated Series",
+    "number": "39",
+    "episode": "Hear of Steel pt.1",
+    "rating": "A"
+  },
+  {
+    "id": 40,
+    "show": "Batman the Animated Series",
+    "number": "40",
+    "episode": "Hear of Steel pt.2",
+    "rating": "A"
+  },
+  {
+    "id": 41,
+    "show": "Batman the Animated Series",
+    "number": "41",
+    "episode": "If You're So Smart, Why Aren't You Rich?",
+    "rating": "A"
+  },
+  {
+    "id": 42,
+    "show": "Batman the Animated Series",
+    "number": "42",
+    "episode": "Joker's Wild",
+    "rating": "A"
+  },
+  {
+    "id": 43,
+    "show": "Batman the Animated Series",
+    "number": "43",
+    "episode": "His Silicon Soul",
+    "rating": "A-"
+  },
+  {
+    "id": 44,
+    "show": "Batman the Animated Series",
+    "number": "44",
+    "episode": "Off Balance",
+    "rating": "A-"
+  },
+  {
+    "id": 45,
+    "show": "Batman the Animated Series",
+    "number": "45",
+    "episode": "What is Reality",
+    "rating": "A"
+  },
+  {
+    "id": 46,
+    "show": "Batman the Animated Series",
+    "number": "46",
+    "episode": "The Laughing Fish",
+    "rating": "A-"
+  },
+  {
+    "id": 47,
+    "show": "Batman the Animated Series",
+    "number": "47",
+    "episode": "Harley and Ivy",
+    "rating": "A-"
+  },
+  {
+    "id": 48,
+    "show": "Batman the Animated Series",
+    "number": "48",
+    "episode": "The Mechanic",
+    "rating": "B"
+  },
+  {
+    "id": 49,
+    "show": "Batman the Animated Series",
+    "number": "49",
+    "episode": "The Man Who Killed Batman",
+    "rating": "A"
+  },
+  {
+    "id": 50,
+    "show": "Batman the Animated Series",
+    "number": "50",
+    "episode": "Zatanna",
+    "rating": "B+"
+  },
+  {
+    "id": 51,
+    "show": "Batman the Animated Series",
+    "number": "51",
+    "episode": "Robin's Reckoning Pt.1",
+    "rating": "A+"
+  },
+  {
+    "id": 52,
+    "show": "Batman the Animated Series",
+    "number": "52",
+    "episode": "Robin's Reckoning Pt.2",
+    "rating": "A"
+  },
+  {
+    "id": 53,
+    "show": "Batman the Animated Series",
+    "number": "53",
+    "episode": "Birds of a Feather",
+    "rating": "B+"
+  },
+  {
+    "id": 54,
+    "show": "Batman the Animated Series",
+    "number": "54",
+    "episode": "Blind As A Bat",
+    "rating": "A-"
+  },
+  {
+    "id": 55,
+    "show": "Batman the Animated Series",
+    "number": "55",
+    "episode": "Day of the Samurai",
+    "rating": "A-"
+  },
+  {
+    "id": 56,
+    "show": "Batman the Animated Series",
+    "number": "56",
+    "episode": "See No Evil",
+    "rating": "A"
+  },
+  {
+    "id": 57,
+    "show": "Batman the Animated Series",
+    "number": "57",
+    "episode": "The Demon's Quest Part I",
+    "rating": "A+"
+  },
+  {
+    "id": 58,
+    "show": "Batman the Animated Series",
+    "number": "58",
+    "episode": "The Demon's Quest Part II",
+    "rating": "A+"
+  },
+  {
+    "id": 59,
+    "show": "Batman the Animated Series",
+    "number": "59",
+    "episode": "Read My Lips",
+    "rating": "B+"
+  },
+  {
+    "id": 60,
+    "show": "Batman the Animated Series",
+    "number": "60",
+    "episode": "Fire from Olympus",
+    "rating": "B"
+  },
+  {
+    "id": 61,
+    "show": "Batman the Animated Series",
+    "number": "61",
+    "episode": "Shadow of the Bat (Part 1)",
+    "rating": "A+"
+  },
+  {
+    "id": 62,
+    "show": "Batman the Animated Series",
+    "number": "62",
+    "episode": "Shadow of the Bat (Part 2)",
+    "rating": "A+"
+  },
+  {
+    "id": 63,
+    "show": "Batman the Animated Series",
+    "number": "63",
+    "episode": "Mudslide",
+    "rating": "B+"
+  },
+  {
+    "id": 64,
+    "show": "Batman the Animated Series",
+    "number": "64",
+    "episode": "The Worry Men",
+    "rating": "B+"
+  },
+  {
+    "id": 65,
+    "show": "Batman the Animated Series",
+    "number": "65",
+    "episode": "Paging the Crime Doctor",
+    "rating": "B+"
+  },
+  {
+    "id": 66,
+    "show": "Batman the Animated Series",
+    "number": "66",
+    "episode": "House and Garden",
+    "rating": "A"
+  },
+  {
+    "id": 67,
+    "show": "Batman the Animated Series",
+    "number": "67",
+    "episode": "Sideshow",
+    "rating": "B"
+  },
+  {
+    "id": 68,
+    "show": "Batman the Animated Series",
+    "number": "68",
+    "episode": "Avatar",
+    "rating": "A"
+  },
+  {
+    "id": 69,
+    "show": "Batman the Animated Series",
+    "number": "69",
+    "episode": "Trial",
+    "rating": "A+"
+  },
+  {
+    "id": 70,
+    "show": "Batman the Animated Series",
+    "number": "70",
+    "episode": "Harlequinade",
+    "rating": "A-"
+  },
+  {
+    "id": 71,
+    "show": "Batman the Animated Series",
+    "number": "71",
+    "episode": "Bane",
+    "rating": "A"
+  },
+  {
+    "id": 72,
+    "show": "Batman the Animated Series",
+    "number": "72",
+    "episode": "Second Chance",
+    "rating": "A"
+  },
+  {
+    "id": 73,
+    "show": "Batman the Animated Series",
+    "number": "73",
+    "episode": "Riddler's Reform",
+    "rating": "A"
+  },
+  {
+    "id": 74,
+    "show": "Batman the Animated Series",
+    "number": "74",
+    "episode": "Baby Doll",
+    "rating": "B-"
+  },
+  {
+    "id": 75,
+    "show": "Batman the Animated Series",
+    "number": "75",
+    "episode": "Time Out of the Joint",
+    "rating": "B"
+  },
+  {
+    "id": 76,
+    "show": "Batman the Animated Series",
+    "number": "76",
+    "episode": "Harley's Holiday",
+    "rating": "A-"
+  },
+  {
+    "id": 77,
+    "show": "Batman the Animated Series",
+    "number": "77",
+    "episode": "Make 'Em Laugh",
+    "rating": "A"
+  },
+  {
+    "id": 78,
+    "show": "Batman the Animated Series",
+    "number": "78",
+    "episode": "Batgirl Returns",
+    "rating": "A-"
+  },
+  {
+    "id": 79,
+    "show": "Batman the Animated Series",
+    "number": "79",
+    "episode": "Lock-Up",
+    "rating": "B+"
+  },
+  {
+    "id": 80,
+    "show": "Batman the Animated Series",
+    "number": "80",
+    "episode": "Deep Freeze",
+    "rating": "A-"
+  },
+  {
+    "id": 81,
+    "show": "Batman the Animated Series",
+    "number": "81",
+    "episode": "The Terrible Trio",
+    "rating": "B"
+  },
+  {
+    "id": 82,
+    "show": "Batman the Animated Series",
+    "number": "82",
+    "episode": "Showdown",
+    "rating": "B+"
+  },
+  {
+    "id": 83,
+    "show": "Batman the Animated Series",
+    "number": "83",
+    "episode": "Catwalk",
+    "rating": "B+"
+  },
+  {
+    "id": 84,
+    "show": "Batman the Animated Series",
+    "number": "84",
+    "episode": "A Bullet for Bullock",
+    "rating": "A-"
+  },
+  {
+    "id": 85,
+    "show": "Batman the Animated Series",
+    "number": "85",
+    "episode": "The Lion and the Unicorn",
+    "rating": "A-"
+  }
+]

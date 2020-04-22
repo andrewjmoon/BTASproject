@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "show": "New Batman Adventures",
+    "number": "1",
+    "episode": "Holiday Knights",
+    "rating": "A"
+  },
+  {
+    "id": 2,
+    "show": "New Batman Adventures",
+    "number": "2",
+    "episode": "Sins of the Father",
+    "rating": "A"
+  },
+  {
+    "id": 3,
+    "show": "New Batman Adventures",
+    "number": "3",
+    "episode": "Code Comfort",
+    "rating": "A"
+  },
+  {
+    "id": 4,
+    "show": "New Batman Adventures",
+    "number": "4",
+    "episode": "Never Fear",
+    "rating": "A+"
+  },
+  {
+    "id": 5,
+    "show": "New Batman Adventures",
+    "number": "5",
+    "episode": "You Scratch My Back",
+    "rating": "B+"
+  },
+  {
+    "id": 6,
+    "show": "New Batman Adventures",
+    "number": "6",
+    "episode": "Double Talk",
+    "rating": "B"
+  },
+  {
+    "id": 7,
+    "show": "New Batman Adventures",
+    "number": "7",
+    "episode": "Joker's Millions",
+    "rating": "A-"
+  },
+  {
+    "id": 8,
+    "show": "New Batman Adventures",
+    "number": "8",
+    "episode": "Growing Pains",
+    "rating": "B+"
+  },
+  {
+    "id": 9,
+    "show": "New Batman Adventures",
+    "number": "9",
+    "episode": "Mean Seasons",
+    "rating": "B+"
+  },
+  {
+    "id": 10,
+    "show": "New Batman Adventures",
+    "number": "10",
+    "episode": "The Demon Within",
+    "rating": "B"
+  },
+  {
+    "id": 11,
+    "show": "New Batman Adventures",
+    "number": "11",
+    "episode": "Over the Edge",
+    "rating": "A"
+  },
+  {
+    "id": 12,
+    "show": "New Batman Adventures",
+    "number": "12",
+    "episode": "Torch Song",
+    "rating": "B+"
+  },
+  {
+    "id": 13,
+    "show": "New Batman Adventures",
+    "number": "13",
+    "episode": "Love is a Croc",
+    "rating": "B+"
+  },
+  {
+    "id": 14,
+    "show": "New Batman Adventures",
+    "number": "14",
+    "episode": "The Ultimate Thrill",
+    "rating": "B"
+  },
+  {
+    "id": 15,
+    "show": "New Batman Adventures",
+    "number": "15",
+    "episode": "Critters",
+    "rating": "B"
+  },
+  {
+    "id": 16,
+    "show": "New Batman Adventures",
+    "number": "16",
+    "episode": "Cult of the Cat",
+    "rating": "B"
+  },
+  {
+    "id": 17,
+    "show": "New Batman Adventures",
+    "number": "17",
+    "episode": "Animal Act",
+    "rating": "B"
+  },
+  {
+    "id": 18,
+    "show": "New Batman Adventures",
+    "number": "18",
+    "episode": "Old Wounds",
+    "rating": "A+"
+  },
+  {
+    "id": 19,
+    "show": "New Batman Adventures",
+    "number": "19",
+    "episode": "Legends of the Dark Knight",
+    "rating": "A-"
+  },
+  {
+    "id": 20,
+    "show": "New Batman Adventures",
+    "number": "20",
+    "episode": "Girl's Night Out",
+    "rating": "B+"
+  },
+  {
+    "id": 21,
+    "show": "New Batman Adventures",
+    "number": "21",
+    "episode": "Chemistry",
+    "rating": "B"
+  },
+  {
+    "id": 22,
+    "show": "New Batman Adventures",
+    "number": "22",
+    "episode": "Judgment Day",
+    "rating": "A"
+  },
+  {
+    "id": 23,
+    "show": "New Batman Adventures",
+    "number": "23",
+    "episode": "Beware the Creeper",
+    "rating": "A-"
+  },
+  {
+    "id": 24,
+    "show": "New Batman Adventures",
+    "number": "24",
+    "episode": "Mad Love",
+    "rating": "A+"
+  }
+]
